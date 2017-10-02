@@ -1,7 +1,6 @@
 ---
-title: "Lab 3 R Markdown"
+title: "Lab 3"
 author: "Daniella Madubuike"
-date: "October 2, 2017"
 output: html_document
 ---
 
@@ -10,7 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 #Question 1
-
 The **Cars93** dataset in the **MASS** package contains data from 93 cars on sale in the USA in
 1993. Randomly select 40 cars as the training dataset and the remaining 53 cars as the test
 dataset. Save both datasets as csv files. Find out the number of **USA** and **non-USA** cars in the
